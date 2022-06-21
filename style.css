@@ -1,0 +1,54 @@
+* {
+  background-color: rgb(198, 236, 223);
+}
+.navbar {
+  position: sticky;
+  top: 0%;
+  z-index: auto;
+  position: left;
+}
+.navimg {
+  height: 25px;
+  width: 25px;
+}
+h1 {
+  text-align: center;
+  color: rgb(65, 129, 225);
+  font-size: 70px;
+  font-family: Georgia, "arial", Times, serif;
+}
+ul {
+  display: flex;
+  list-style: none;
+  flex-direction: column;
+  font-stretch: normal;
+}
+
+.pic {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  margin-left: 455px;
+}
+.LikeDislike {
+  float: right;
+}
+.inc {
+  background-color: rgb(198, 236, 223);
+  border: 0ch;
+}
+.minus {
+  background-color: rgb(198, 236, 223);
+  border: 0ch;
+}
+.trash {
+  background-color: rgb(198, 236, 223);
+  border: 0ch;
+}
+.like {
+  background-color: rgb(198, 236, 223);
+  border: 0ch;
+}
+.colorlike {
+  color: red;
+}
